@@ -1,3 +1,6 @@
 streamlit
 web3
 python-dotenv
+requests
+openai
+pandas
